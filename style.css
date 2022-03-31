@@ -1,0 +1,18 @@
+.headTitle {
+    margin: auto;
+    text-align: center;
+}
+
+.descr {
+    font-weight: 700;
+}
+.color {
+    color: green;
+    box-sizing: ;
+}
+[width="180"] {
+  border: 10px solid red;
+    padding: 20px;
+    margin: 40px;
+}
+
